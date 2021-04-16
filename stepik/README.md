@@ -3,8 +3,8 @@
 https://stepik.org/lesson/410198/step/1?unit=483433  
 
 3.2 Семинар. Библиотека sklearn. Григорий Лелейтнер  
-Семинар 1. Введение в машинное обучение.
-https://stepik.org/lesson/410199/step/1?unit=483434
+Семинар 1. Введение в машинное обучение.  
+https://stepik.org/lesson/410199/step/1?unit=483434  
 https://drive.google.com/drive/folders/1VtuJtgZx4N8CYMiiV7PaKXo2J-PYSwuK?usp=sharing  
 
 4.1 Домашнее задание. Основы машинного обучения  
