@@ -46,6 +46,8 @@ https://drive.google.com/drive/folders/1enGrVK3wYQmf3Kzm0ZDG78bLW88aIbKa?usp=sha
 
 7. Композиции алгоритмов и выбор модели
 
+7.1 Решающие деревья и композиции алгоритмов. Юрий Яровиков
+
 Лекция. Решающие деревья
 https://stepik.org/lesson/499861/step/1?unit=491413
 https://drive.google.com/file/d/1OKHxmyBjWLFJFBPOc5uj0MGOMQVAyo-B/view?usp=sharing
@@ -61,9 +63,14 @@ https://stepik.org/lesson/499861/step/3?unit=491413
 https://drive.google.com/drive/folders/13-G-snzcl5tdudF5BxSZwmBAb9C-vtP-
 https://stepik.org/lesson/418625/step/1?unit=491414
 
-8.1 Домашнее задание. Решение ML-задачи и Kaggle
+8 Домашнее задание. Решение ML-задачи и Kaggle
 
 https://stepik.org/lesson/501479/step/1?unit=493164
+
+
+
+
+
 https://drive.google.com/drive/folders/15UoRIwvCOZ-6c624m5NTDfbFizOs-C0N?usp=sharing
 https://www.kaggle.com/c/advanced-dls-spring-2021/
 
