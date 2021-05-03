@@ -43,3 +43,48 @@ https://stepik.org/lesson/496637/step/2?unit=488032
 https://colab.research.google.com/drive/1nf3KZ0SeYcebMzMX6EVIz3phwLcW0Ufi?usp=sharing  
 https://stepik.org/lesson/417530/step/1?unit=489359  
 https://drive.google.com/drive/folders/1enGrVK3wYQmf3Kzm0ZDG78bLW88aIbKa?usp=sharing  
+
+7. Композиции алгоритмов и выбор модели
+
+Лекция. Решающие деревья
+https://stepik.org/lesson/499861/step/1?unit=491413
+https://drive.google.com/file/d/1OKHxmyBjWLFJFBPOc5uj0MGOMQVAyo-B/view?usp=sharing
+
+Лекция. Композиции алгоритмов
+https://stepik.org/lesson/499861/step/2?unit=491413
+
+Лекция. Градиентный бустинг
+https://stepik.org/lesson/499861/step/3?unit=491413
+
+7.2 Семинар. Выбор моделей и цикл разработки. Аркадий Боков
+
+https://drive.google.com/drive/folders/13-G-snzcl5tdudF5BxSZwmBAb9C-vtP-
+https://stepik.org/lesson/418625/step/1?unit=491414
+
+8.1 Домашнее задание. Решение ML-задачи и Kaggle
+
+https://stepik.org/lesson/501479/step/1?unit=493164
+https://drive.google.com/drive/folders/15UoRIwvCOZ-6c624m5NTDfbFizOs-C0N?usp=sharing
+https://www.kaggle.com/c/advanced-dls-spring-2021/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
