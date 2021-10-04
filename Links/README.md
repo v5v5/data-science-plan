@@ -2,3 +2,6 @@
 [Data Science Starter Kit](https://towardsdatascience.com/data-science-starter-kit-2d8e2291914b)  
 [Playground Tensorflow](https://playground.tensorflow.org/#activation=relu&batchSize=30&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=3,2,1&seed=0.49820&showTestData=false&discretize=false&percTrainData=70&x=false&y=false&xTimesY=false&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false)  
 [A Beginners Guide to Machine Learning: Binary Classification of legendary Pokemon using multiple ML algorithms](https://www.analyticsvidhya.com/blog/2021/08/a-beginners-guide-to-machine-learning-binary-classification-of-legendary-pokemon-using-multiple-ml-algorithms/)  
+[Top statistical data analysis techniques to be known by a data scientist](https://www.analyticsinsight.net/top-5-statistical-data-analysis-techniques-a-data-scientist-should-know/)  
+[Top 20 Data Science and Machine Learning Projects in Python (Part-II)](https://www.datasciencecentral.com/profiles/blogs/top-20-data-science-and-machine-learning-projects-in-python-par-1)  
+[Free Data Science for Beginners curriculum on GitHub](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme)  
