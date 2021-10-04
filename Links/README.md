@@ -1,3 +1,4 @@
 [Machine & Deep Learning Compendium](https://www.kdnuggets.com/2021/09/machine-deep-learning-open-book.html)  
 [Data Science Starter Kit](https://towardsdatascience.com/data-science-starter-kit-2d8e2291914b)  
 [Playground Tensorflow](https://playground.tensorflow.org/#activation=relu&batchSize=30&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=3,2,1&seed=0.49820&showTestData=false&discretize=false&percTrainData=70&x=false&y=false&xTimesY=false&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false)  
+[A Beginners Guide to Machine Learning: Binary Classification of legendary Pokemon using multiple ML algorithms](https://www.analyticsvidhya.com/blog/2021/08/a-beginners-guide-to-machine-learning-binary-classification-of-legendary-pokemon-using-multiple-ml-algorithms/)  
