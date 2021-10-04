@@ -1,2 +1,3 @@
 [Machine & Deep Learning Compendium](https://www.kdnuggets.com/2021/09/machine-deep-learning-open-book.html)  
-[Data Science Starter Kit](https://towardsdatascience.com/data-science-starter-kit-2d8e2291914b)
+[Data Science Starter Kit](https://towardsdatascience.com/data-science-starter-kit-2d8e2291914b)  
+[Playground Tensorflow](https://playground.tensorflow.org/#activation=relu&batchSize=30&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=3,2,1&seed=0.49820&showTestData=false&discretize=false&percTrainData=70&x=false&y=false&xTimesY=false&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false)  
