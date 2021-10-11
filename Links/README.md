@@ -5,3 +5,4 @@
 [Top statistical data analysis techniques to be known by a data scientist](https://www.analyticsinsight.net/top-5-statistical-data-analysis-techniques-a-data-scientist-should-know/)  
 [Top 20 Data Science and Machine Learning Projects in Python (Part-II)](https://www.datasciencecentral.com/profiles/blogs/top-20-data-science-and-machine-learning-projects-in-python-par-1)  
 [Free Data Science for Beginners curriculum on GitHub](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme)  
+[Use These Tools to Learn Data Science Faster](https://towardsdatascience.com/use-these-tools-to-learn-data-science-faster-8f3bb22371ba)  
