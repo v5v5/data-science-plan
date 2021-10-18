@@ -7,3 +7,4 @@
 [Free Data Science for Beginners curriculum on GitHub](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme)  
 [Use These Tools to Learn Data Science Faster](https://towardsdatascience.com/use-these-tools-to-learn-data-science-faster-8f3bb22371ba)  
 [Предсказать рейтинг энергопотребления (Energy Star Score) здания и понять, какие признаки оказывают на него сильнейшее влияние](https://neurohive.io/ru/tutorial/primer-reshenija-realnoj-zadachi-po-mashinnomu-obucheniju-na-python/)  
+[DeepFake](https://deepfacelab.tech/)
