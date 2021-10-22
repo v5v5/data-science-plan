@@ -31,4 +31,4 @@ exp1|exp2	exp2 или exp2
 
 # Replace
 Search = ^(.+)$  
-Replace = able:"\1"  
+Replace = ![]($1)
