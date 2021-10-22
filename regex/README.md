@@ -29,6 +29,6 @@ exp1|exp2	exp2 или exp2
 ()	Достаёт только нужные символы  
 (?:)	применить что-то к группе  
 
-# Replace:  
+# Replace
 Search = ^(.+)$  
 Replace = able:"\1"  
