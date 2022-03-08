@@ -9,5 +9,4 @@
 [Предсказать рейтинг энергопотребления (Energy Star Score) здания и понять, какие признаки оказывают на него сильнейшее влияние](https://neurohive.io/ru/tutorial/primer-reshenija-realnoj-zadachi-po-mashinnomu-obucheniju-na-python/)  
 [DeepFake](https://deepfacelab.tech/)  
 https://pymagic.ru/
-[Коллекция
-визуализаций](https://datayoga.ru/vizcards)
+[Коллекция визуализаций](https://datayoga.ru/vizcards)
